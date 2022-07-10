@@ -8,25 +8,35 @@
 Memphis's Software:
 
   List of modified files:
-    - .../memphis/software/include/api.h
-    - .../memphis/software/include/services.h
-    - .../memphis/software/kernel/slave/kernel_slave.c
-    - .../memphis/software/modules/packet.h
+	
+	
+	
+    .../memphis/software/include/api.h
+    .../memphis/software/include/services.h
+    .../memphis/software/kernel/slave/kernel_slave.c
+    .../memphis/software/modules/packet.h
 
   List of added files:
-     - .../memphis/software/modules/peripheral_communications.h
-     - .../memphis/software/modules/peripheral_communications.c
+	
+	
+
+    - .../memphis/software/modules/peripheral_communications.h
+    - .../memphis/software/modules/peripheral_communications.c
 
 
 Memphis's Hardware:
   
   List of modified files:
+	
+	
     - .../memphis/hardware/sc/memphis.cpp
     - .../memphis/hardware/sc/memphis.h
     - .../memphis/hardware/sc/test_bench.cpp
     - .../memphis/hardware/sc/test_bench.h
     
   List of added files:
+	
+	
     - .../memphis/hardware/sc/peripherals/neural_peripheral.h
     - .../memphis/hardware/sc/peripherals/neural_peripheral.cpp
     - .../memphis/hardware/sc/peripherals/nn.h
